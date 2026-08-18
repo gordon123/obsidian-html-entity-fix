@@ -22,3 +22,5 @@ guide for creating this plugin.
 Copy-paste จะดักจับได้
 
 Import text จะดักจับได้
+
+download main.js จาก Releases 1
