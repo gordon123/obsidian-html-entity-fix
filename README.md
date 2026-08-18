@@ -17,7 +17,7 @@ Only converts entities when they end in a semicolon.
 I used the code of [jon-heard/obsidian-text-expander-js](https://github.com/jon-heard/obsidian-text-expander-js) as a
 guide for creating this plugin.
 
--- เพิ่มเติม
+-- เพิ่มเติม แก้ไขแค่ ไฟล์ main.js
 
 Copy-paste จะดักจับได้
 
